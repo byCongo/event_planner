@@ -42,9 +42,10 @@ const EventPlanner = () => {
           <li>Cultural celebrations</li>
         </ul>
 
-
       </section>
-      <section className="features"></section>
+      <section className="features">
+        <h2></h2>
+      </section>
       <section className="testimonials"></section>
       <section className="contact"></section>
     </div>
